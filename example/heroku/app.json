@@ -1,0 +1,9 @@
+{
+  "name": "angelo-chat-demo",
+  "description": "A template for getting started with Angelo",
+  "website": "https://github.com/kenichi/angelo/tree/master/example/heroku",
+  "success_url": "/",
+  "addons": ["rediscloud"],
+  "env": {},
+  "scripts": {}
+}
